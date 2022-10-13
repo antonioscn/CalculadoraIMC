@@ -22,5 +22,5 @@ Esse projeto foi desenvolvido com as tecnologias:
  
  
 ##  Deploy
-  Veja o deploy do projeto [CalcIMC](https://antonioscn.github.io/timephone/).
+  Veja o deploy do projeto [Calculadora de IMC](http://calculadora-imc-ascn.vercel.app/).
 
